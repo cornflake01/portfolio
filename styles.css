@@ -9,10 +9,10 @@ body {
 #navbar {
     background-color: #3A4D39;
     padding: 10px;
-    position: fixed; /* Fixed position to keep the navbar at the top */
-    width: 100%; /* Make the navbar span the entire width */
-    top: 0; /* Align the navbar to the top */
-    z-index: 1000; /* Ensure the navbar appears above other elements */
+    position: fixed; 
+    width: 100%; 
+    top: 0; 
+    z-index: 1000; 
 }
 
 #navbar ul {
@@ -115,7 +115,6 @@ footer {
     text-decoration: underline;
 }
 
-/* Media Query for Responsive Design */
 @media screen and (max-width: 768px) {
-    /* Add your responsive styles here */
+    
 }
